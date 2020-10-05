@@ -34,8 +34,8 @@ const settings = {
         "source": {
           "api": "https://api.primitivedigital.uk/wp-json"
         },
-        homepage: "/home/", // optional: set when using a page as the site homepage (wp hp settings ignored)
-        postsPage: "/blog/", // optional: set when using a page as the site homepage
+        "homepage": "/home/", // optional: set when using a page as the site homepage (wp hp settings ignored)
+        "postsPage": "/blog/", // optional: set when using a page as the site homepage
       }
     },
     "@frontity/tiny-router",
